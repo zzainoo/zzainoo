@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zain alabdeen</h1>
 <h3 align="center">A Full-Stack Web Developer From Iraq</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zzainoo&label=Profile%20views&color=0e75b6&style=flat" alt="zzainoo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zzainoo&label=Profile%20views&color=0e75b6&style=flat" alt="zzainoo" /> <a href="https://twitter.com/zzainoo_" target="blank"><img src="https://img.shields.io/twitter/follow/zzainoo_?logo=twitter&style=for-the-badge" alt="zzainoo_" /></a></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzainoo" alt="zzainoo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zzainoo_" target="blank"><img src="https://img.shields.io/twitter/follow/zzainoo_?logo=twitter&style=for-the-badge" alt="zzainoo_" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
